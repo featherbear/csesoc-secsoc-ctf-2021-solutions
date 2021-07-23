@@ -105,7 +105,7 @@ Script: TODO:
 
 ---
 
-# Recon
+# Category: Recon
 
 ## a rocket
 
@@ -115,7 +115,7 @@ Flag: `NEWBIE{Alabama}`
 
 ---
 
-# Misc
+# Category: Misc
 
 ## zippity 2: electric boogaloo 
 
